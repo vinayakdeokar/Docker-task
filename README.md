@@ -1,6 +1,6 @@
-# Docker Hands-On Lab Questions
+# Docker Hands-On Lab task
 
-This repository contains Docker hands-on lab **questions/tasks** divided into three sections according to the PDF files.
+This repository contains Docker hands-on lab **tasks** divided into three sections according to the PDF files.
 
 ---
 
